@@ -16,11 +16,11 @@ ans = [nums[nums[0]], nums[nums[1]], nums[nums[2]], nums[nums[3]], nums[nums[4]]
 1. Create a new array
 2. Traverse nums using for loop
 
-## Time Complexity: O(n)
+#### Time Complexity: O(n)
 
-## Space Complexity: O(n)
+#### Space Complexity: O(n)
 
-# Java Solution:
+## Java Solution:
 ```java
 class Solution {
     public int[] buildArray(int[] nums) {
